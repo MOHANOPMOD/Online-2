@@ -3,7 +3,7 @@
   "noticemode": "true",
   "user_list": "USER_MOHAN_01, TEST_USER, ADMIN_OP",
   "servermeassage": "Maintenance Running...",
-  "libs": "https://yourlink.com/file.so",
+  "libs": "https://github.com/MOHANOPMOD/Online-2/raw/refs/heads/main/libbgmi1.zip",
   "notice_title": "MOHAN OP",
   "notice_body": " ~ Connected"
 }
