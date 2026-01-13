@@ -1,13 +1,13 @@
 {
   "status": "true",
   "noticemode": "true",
-  "user_list": "MOHANOP",
-  "serverstatus": "true",
-  "servermeassage": "Server is Online",
+  "dataclearmode": "false",
+  "servermeassage": "Server is under maintenance",
+  "time": "2026-01-13",
   "libs": "https://github.com/MOHANOPMOD/Online-2/raw/refs/heads/main/libbgmi1.zip",
-  "notice_title": "MOHAN OP",
-  "notice_body": "Connected Successfully",
-  "dataclearmode": "false"
+  "notice_title": "TG:~",
+  "notice_body": "@MOHAN_OP",
+  "user_list": "MOHANOP, USER1, USER2"
 }
 
 
