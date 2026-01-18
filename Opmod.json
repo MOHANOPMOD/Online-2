@@ -2,9 +2,10 @@
   "serverstatus": "true",
   "noticemode": "false",
   "dataclearmode": "false",
-  "servermeassage": "Wait We Are Working On a new Update ! @MOHAN_OP",
-  "opentime": " Wait For Some Time ⚡",
-  "libs": "https://raw.githubusercontent.com/MOHANOPMOD/Online-/main/libbgmi1.zip",
-  "notice_title": "",
-  "notice_body": " TG:~@MOHAN_OP "
+  "servermeassage": "Server is Online",
+  "opentime": "0",
+  "libs": "https://github.com/MOHANOPMOD/Online-2/raw/refs/heads/main/libbgmi1.zip",
+  "notice_title": "Update",
+  "notice_body": "New Lib Added"
 }
+
